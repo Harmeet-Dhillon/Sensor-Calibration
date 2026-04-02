@@ -2,6 +2,7 @@
 
 <img width="360" height="634" alt="Screenshot from 2026-04-01 22-39-59" src="https://github.com/user-attachments/assets/47d05e42-db87-4910-b975-ecd2401b5742" />
 
+<img width="319" height="534" alt="Screenshot from 2026-04-01 22-40-35" src="https://github.com/user-attachments/assets/7c7ba775-2890-4e9e-b583-ba33a091c0e6" />
 
 > A from-scratch C++ implementation of **Zhengyou Zhang's** checkerboard-based camera calibration method. Estimates the full intrinsic matrix **K**, radial distortion coefficients **k₁/k₂**, and per-image extrinsics using closed-form linear algebra followed by non-linear refinement via a custom Levenberg–Marquardt optimizer — without ever calling `cv::calibrateCamera`.
 
