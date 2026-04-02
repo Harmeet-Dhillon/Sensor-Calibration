@@ -1,2 +1,3 @@
-<img width="319" height="534" alt="Screenshot from 2026-04-01 22-40-35" src="https://github.com/user-attachments/assets/1358fb02-e24e-42a0-8f5a-95f16484febf" />
-UKF performance vs other filters
+<img width="1785" height="1483" alt="all_methods_dataset3" src="https://github.com/user-attachments/assets/c7820b78-4d7e-4f02-807e-70375eb884e7" />
+
+UKF comparison with other filters for IMU calibration
